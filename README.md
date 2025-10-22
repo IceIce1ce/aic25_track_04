@@ -1,6 +1,6 @@
 # 9th AI City Challenge - Track 4 (Team 15: SKKU-AutoLab)
 
-🥈 2nd Place Solution of the 9th AI City Challenge, Track 4, ICCV 2025.
+🥈 2nd Place Solution of the [9th AI City Challenge, Track 4](https://www.aicitychallenge.org/), ICCV 2025.
 
 📄 [Paper](https://openaccess.thecvf.com/content/ICCV2025W/AICity/papers/Pham_Data_Augmentation_Is_All_You_Need_For_Robust_Fisheye_Object_ICCVW_2025_paper.pdf)
 📦 [Code](https://github.com/SKKUAutoLab/aic25_track_04)

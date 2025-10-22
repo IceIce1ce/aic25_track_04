@@ -1,4 +1,4 @@
-# Team 15: AI City Challenge 2025 Track 4
+# 9th AI City Challenge - Track 4 (Team 15: SKKU-AutoLab)
 
 🥈 2nd Place Solution of the 9th AI City Challenge, Track 4, ICCV 2025.
 

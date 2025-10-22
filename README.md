@@ -1,5 +1,12 @@
 # Team 15: AI City Challenge 2025 Track 4
 
+2nd Place Solution of the 9th AI City Challenge, Track 4, ICCV 2025.
+
+📄 [Paper](https://openaccess.thecvf.com/content/ICCV2025W/AICity/papers/Pham_Data_Augmentation_Is_All_You_Need_For_Robust_Fisheye_Object_ICCVW_2025_paper.pdf)
+📦 [Code](https://github.com/SKKUAutoLab/aic25_track_04)
+
+![](ranking_track4.png)
+
 ---
 ## PREREQUISITES 
 
@@ -24,6 +31,18 @@ Please follow the instructions in `team15` folder to run the training code.
 
 Please follow the instructions in `team15_jetson` folder to run the inference code.
 
+
+---
+## Citation
+```bibtex
+@INPROCEEDINGS{Pham2025Data,
+    author    = {Long Hoang Pham, Quoc Pham-Nam Ho, Duong Khac Vu, Huy-Hung Nguyen, Chi Dai Tran, Duong Nguyen-Ngoc Tran, Tai Huu-Phuong Tran, Ngoc Doan-Minh Huynh, Hyung Joon Jeon, Hyung-Min Jeon, Son Hong Phan, Trinh Le Ba Khanh, Jae Wook Jeon},
+    title     = {Data Augmentation Is All You Need For Robust Fisheye Object Detection},
+    booktitle = {IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)},
+    year      = {2025},
+    pages     = {5334--5342},
+}
+```
 
 ---
 ## Contact
